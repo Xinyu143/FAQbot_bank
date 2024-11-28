@@ -26,7 +26,7 @@ FAQbot_bank/
 |
 ├── src/
 │   ├── FAQ_chatbot.ipynb      # Includes all major functions
-│   ├── pdf2csv.py             # Convert other datasets (PDF or Word) to Excel format
+│   ├── pdf2csv.py             # Convert other datasets (PDF or Word) to Excel format. PS: If the csv format is garbled, try saving it in xlsx format.
 |
 └── README.md                  # Project documentation
 
